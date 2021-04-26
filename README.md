@@ -175,12 +175,10 @@ document.write("hasil: "+ hasil);
     </body>
     </html>
     ```
-    ```
    ![Screenshot (124)](https://user-images.githubusercontent.com/81580084/116066195-fb45a600-a6b1-11eb-8a45-623c2be23ec6.png)
    
    
    **Pembuatan Form**
-   ```
    ```
  <!DOCTYPE html>
 <html lang="en">
@@ -244,6 +242,5 @@ document.write("hasil: "+ hasil);
  <strong>Total Bayar: Rp. <input id="Total" type="Text"></strong>
 </body>
 </html> 
-```
 ```
 ![Screenshot (127)](https://user-images.githubusercontent.com/81580084/116066495-55df0200-a6b2-11eb-8945-af67d9f40163.png)
